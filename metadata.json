@@ -1,0 +1,68 @@
+{
+  "base_url": "",
+  "versions": {
+    "en": {
+      "14.7.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.0/en-14.7.0.tar.xz",
+      "14.7.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.1-en-kr-tw/en-14.7.1.tar.xz",
+      "15.0.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.0-en-kr-tw/en-15.0.0.tar.xz",
+      "15.0.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.1-en-kr-tw/en-15.0.1.tar.xz",
+      "15.0.2": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.2-en-kr-tw/en-15.0.2.tar.xz",
+      "15.0.3": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.3-en-kr-tw/en-15.0.3.tar.xz",
+      "15.1.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.1.0-en-kr-tw/en-15.1.0.tar.xz",
+      "15.2.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.2.0-en-kr-tw/en-15.2.0.tar.xz",
+      "15.3.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.3.0-en-kr-tw/en-15.3.0.tar.xz",
+      "15.4.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.4.0-en-kr-tw/en-15.4.0.tar.xz",
+      "15.5.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.5.0-en-kr-tw/en-15.5.0.tar.xz",
+      "15.6.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.0-en-kr-tw/en-15.6.0.tar.xz",
+      "15.6.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.1-en-kr-tw/en-15.6.1.tar.xz"
+    },
+    "jp": {
+      "14.7.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.0/jp-14.7.0.tar.xz",
+      "14.7.2": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.2-jp/jp-14.7.2.tar.xz",
+      "15.0.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.0-jp/jp-15.0.0.tar.xz",
+      "15.1.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.1.0-jp/jp-15.1.0.tar.xz",
+      "15.1.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.1.1-jp/jp-15.1.1.tar.xz",
+      "15.2.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.2.0-jp/jp-15.2.0.tar.xz",
+      "15.2.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.2.1-jp/jp-15.2.1.tar.xz",
+      "15.3.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.3.0-jp/jp-15.3.0.tar.xz",
+      "15.3.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.3.1-jp/jp-15.3.1.tar.xz",
+      "15.4.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.4.0-jp/jp-15.4.0.tar.xz",
+      "15.4.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.4.1-jp/jp-15.4.1.tar.xz",
+      "15.5.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.5.0-jp/jp-15.5.0.tar.xz",
+      "15.5.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.5.1-jp/jp-15.5.1.tar.xz",
+      "15.6.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.0-jp/jp-15.6.0.tar.xz",
+      "15.7.2": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.7.2-jp/jp-15.7.2.tar.xz",
+      "16.0.3": "https://raw.githubusercontent.com/dtmpm3485/BCdata/main/packs/jp/jp-16.0.3.tar.xz"
+    },
+    "tw": {
+      "14.7.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.0/tw-14.7.0.tar.xz",
+      "14.7.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.1-en-kr-tw/tw-14.7.1.tar.xz",
+      "15.0.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.0-en-kr-tw/tw-15.0.0.tar.xz",
+      "15.0.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.1-en-kr-tw/tw-15.0.1.tar.xz",
+      "15.0.2": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.2-en-kr-tw/tw-15.0.2.tar.xz",
+      "15.0.3": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.3-en-kr-tw/tw-15.0.3.tar.xz",
+      "15.1.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.1.0-en-kr-tw/tw-15.1.0.tar.xz",
+      "15.2.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.2.0-en-kr-tw/tw-15.2.0.tar.xz",
+      "15.3.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.3.0-en-kr-tw/tw-15.3.0.tar.xz",
+      "15.4.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.4.0-en-kr-tw/tw-15.4.0.tar.xz",
+      "15.5.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.5.0-en-kr-tw/tw-15.5.0.tar.xz",
+      "15.6.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.0-en-kr-tw/tw-15.6.0.tar.xz",
+      "15.6.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.1-en-kr-tw/tw-15.6.1.tar.xz"
+    },
+    "kr": {
+      "14.7.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.0/kr-14.7.0.tar.xz",
+      "14.7.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v14.7.1-en-kr-tw/kr-14.7.1.tar.xz",
+      "15.0.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.0-en-kr-tw/kr-15.0.0.tar.xz",
+      "15.0.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.1-en-kr-tw/kr-15.0.1.tar.xz",
+      "15.0.2": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.2-en-kr-tw/kr-15.0.2.tar.xz",
+      "15.0.3": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.0.3-en-kr-tw/kr-15.0.3.tar.xz",
+      "15.1.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.1.0-en-kr-tw/kr-15.1.0.tar.xz",
+      "15.2.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.2.0-en-kr-tw/kr-15.2.0.tar.xz",
+      "15.3.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.3.0-en-kr-tw/kr-15.3.0.tar.xz",
+      "15.4.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.4.0-en-kr-tw/kr-15.4.0.tar.xz",
+      "15.5.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.5.0-en-kr-tw/kr-15.5.0.tar.xz",
+      "15.6.0": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.0-en-kr-tw/kr-15.6.0.tar.xz",
+      "15.6.1": "https://git.battlecatsmodding.org/fieryhenry/BCData/releases/download/v15.6.1-en-kr-tw/kr-15.6.1.tar.xz"
+    }
+  }
+}
